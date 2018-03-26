@@ -1,9 +1,9 @@
 <?php
 class Database{
-    private $host = "pruebas.ecommercetests.com";
-    private $db_name = "ecommercepruebas";
-    private $username = "pruebasuser";
-    private $password = "814H0sNjqB0";
+    private $host = "localhost";
+    private $db_name = "empleados";
+    private $username = "root";
+    private $password = "";
     public $conn;
 
     //private $host = "localhost";
